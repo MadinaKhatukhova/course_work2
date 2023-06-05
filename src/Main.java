@@ -10,6 +10,7 @@ public class Main
         }
         return str;
     }
+
     public static void main(String[] args)
     {
         String str = "ABC";
